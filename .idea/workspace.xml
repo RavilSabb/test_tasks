@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="067f8da7-05aa-4a97-84ea-21ca25615791" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cdWXBAwYd1COzZ6uaMTlv1gmHS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Application" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="task_2.Program" />
+      <module name="Sabirzyanov_tasks" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="067f8da7-05aa-4a97-84ea-21ca25615791" name="Default Changelist" comment="" />
+      <created>1590858992406</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590858992406</updated>
+      <workItem from="1590859004284" duration="5289000" />
+      <workItem from="1590893452118" duration="3771000" />
+      <workItem from="1590899604849" duration="9158000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="379" y="153" key="#Application" timestamp="1590860360830">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="379" y="153" key="#Application/0.0.1280.980@0.0.1280.980" timestamp="1590860360830" />
+    <state x="236" y="153" key="#Project_Structure" timestamp="1590917901090">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="236" y="153" key="#Project_Structure/0.0.1280.980@0.0.1280.980" timestamp="1590917901090" />
+    <state x="75" y="191" width="1081" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1590917992245">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="75" y="191" width="1081" height="766" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.980@0.0.1280.980" timestamp="1590917992245" />
+    <state x="449" y="210" key="#com.intellij.ide.util.MemberChooser" timestamp="1590917804339">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="449" y="210" key="#com.intellij.ide.util.MemberChooser/0.0.1280.980@0.0.1280.980" timestamp="1590917804339" />
+    <state x="349" y="362" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1590917989475">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="349" y="362" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1280.980@0.0.1280.980" timestamp="1590917989475" />
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom" timestamp="1590918162936">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state width="1236" height="259" key="GridCell.Tab.0.bottom/0.0.1280.980@0.0.1280.980" timestamp="1590918162936" />
+    <state width="1236" height="259" key="GridCell.Tab.0.center" timestamp="1590918162936">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state width="1236" height="259" key="GridCell.Tab.0.center/0.0.1280.980@0.0.1280.980" timestamp="1590918162936" />
+    <state width="1236" height="259" key="GridCell.Tab.0.left" timestamp="1590918162936">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state width="1236" height="259" key="GridCell.Tab.0.left/0.0.1280.980@0.0.1280.980" timestamp="1590918162936" />
+    <state width="1236" height="259" key="GridCell.Tab.0.right" timestamp="1590918162936">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state width="1236" height="259" key="GridCell.Tab.0.right/0.0.1280.980@0.0.1280.980" timestamp="1590918162936" />
+    <state width="1238" height="320" key="GridCell.Tab.1.bottom" timestamp="1590864344266">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state width="1238" height="320" key="GridCell.Tab.1.bottom/0.0.1280.980@0.0.1280.980" timestamp="1590864344266" />
+    <state width="1238" height="320" key="GridCell.Tab.1.center" timestamp="1590864344266">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state width="1238" height="320" key="GridCell.Tab.1.center/0.0.1280.980@0.0.1280.980" timestamp="1590864344266" />
+    <state width="1238" height="320" key="GridCell.Tab.1.left" timestamp="1590864344266">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state width="1238" height="320" key="GridCell.Tab.1.left/0.0.1280.980@0.0.1280.980" timestamp="1590864344266" />
+    <state width="1238" height="320" key="GridCell.Tab.1.right" timestamp="1590864344266">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state width="1238" height="320" key="GridCell.Tab.1.right/0.0.1280.980@0.0.1280.980" timestamp="1590864344266" />
+    <state x="167" y="126" key="SettingsEditor" timestamp="1590860433795">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="167" y="126" key="SettingsEditor/0.0.1280.980@0.0.1280.980" timestamp="1590860433795" />
+    <state x="355" y="115" key="refactoring.ChangeSignatureDialog" timestamp="1590900610447">
+      <screen x="0" y="0" width="1280" height="980" />
+    </state>
+    <state x="355" y="115" key="refactoring.ChangeSignatureDialog/0.0.1280.980@0.0.1280.980" timestamp="1590900610447" />
+  </component>
+</project>
